@@ -1,6 +1,6 @@
 import React from "react";
-import PrimaryTitle from "../atoms/h1/PrimaryTitle";
-import PageParagraphs from "../atoms/p/PageParagraphs";
+import PrimaryTitle from "../../atoms/h1/PrimaryTitle";
+import PageParagraphs from "../../atoms/p/PageParagraphs";
 import './style.scss'
 
 const HeaderContainer = () =>{
